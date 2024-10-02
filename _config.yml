@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chenbin Mao"
-description              : "Phd candidiate at Peking University."
+description              : "Ph.D. candidiate at Peking University."
 repository               : "maochenbin/maochenbin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Chenbin Mao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
