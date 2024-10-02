@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chenbin Mao is a Phd candidate at Peking University.
-
-My research interest includes household finance, insurance, etc.
+Chenbin Mao is a Ph.D. candidate at Peking University.
+My research interest includes household finance, insurance, pension etc.
 
 
 # 🔥 News
